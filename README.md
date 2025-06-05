@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sebastian Tekieli 👋
 
-<!--
-**qiun/qiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Developer & Technology Leader with over 19 years of experience
 
-Here are some ideas to get you started:
+Developer and leader with over 19 years of experience in the internet industry. A lover of new technologies, hardware innovations, and startups. I've built and managed development teams for the largest brands in Poland and internationally — including Onet.pl, Interia.pl, RMF.FM, Bauer Media, DataFeedWatch.com and Punkta.pl. I'm experienced in creating development and testing teams from scratch and scaling them effectively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently:
+- 👨‍💼 Technical Project Manager at **Visuality** (since June 2025)
+- 💡 Supporting teams in delivering technical projects and leading communication with clients
+
+### 🧠 Technologies I work with:
+- **Backend**: Ruby, Ruby on Rails, PHP
+- **Frontend**: React, Next.js, HTML, CSS
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps**: Docker, Git
+- **Other**: REST APIs, AI, OpenStreetMap
+
+### 🏆 Career Highlights:
+- Scaled an IT department from 3 to 26 team members
+- Led projects for major international brands like **Adidas** and **Reebok**
+- Built and launched public tools like [Cominer.io](https://cominer.io) and [GoTranslate.pl](https://gotranslate.pl)
+- Performed security audits and drove technical strategy at the CTO level
+
+### 🏢 Selected companies I’ve worked with:
+Onet.pl · Interia.pl · RMF.FM · Bauer Media · DataFeedWatch · Punkta.pl · inFakt.pl · Visuality
+
+
+> “Technology is only valuable when it serves people — that’s why I’m passionate about building and improving it every day.”  
+> — Sebastian
